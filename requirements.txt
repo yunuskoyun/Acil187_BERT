@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+tensorflow_datasets
+transformers
+huggingface_hub
+altair<5
